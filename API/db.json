@@ -1,0 +1,49 @@
+{
+    "escalations": [
+        {
+            "id": "1",
+            "title": "Failure",
+            "priority": "high",
+            "hall": "C2",
+            "costcenter": "911",
+            "state": "closed",
+            "createdBy": "patrikzita@seznam.cz"
+        },
+        {
+            "id": "2",
+            "title": "Injury",
+            "priority": "high",
+            "hall": "C2",
+            "costcenter": "911",
+            "state": "closed",
+            "createdBy": "patrikzita@seznam.cz"
+        },
+        {
+            "id": "3",
+            "title": "Lack of material",
+            "priority": "high",
+            "hall": "C2",
+            "costcenter": "911",
+            "state": "closed",
+            "createdBy": "patrikzita@seznam.cz"
+        },
+        {
+            "id": "4",
+            "title": "Failure",
+            "priority": "high",
+            "hall": "C2",
+            "costcenter": "911",
+            "state": "closed",
+            "createdBy": "patrikzita@seznam.cz"
+        },
+        {
+            "id": "5",
+            "title": "Customer in danger",
+            "priority": "high",
+            "hall": "C2",
+            "costcenter": "911",
+            "state": "closed",
+            "createdBy": "patrikzita@seznam.cz"
+        }
+    ]
+}
